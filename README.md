@@ -17,4 +17,6 @@ Then open another terminal simultaneously and run:
 1. ### `npm i react express`
 2. ### `npm start`
 
-Check out the presentation and report to learn more!
+
+# Learn more
+Check out the [presentation](https://github.com/MattJohnson24/CodeHub/blob/main/Presentation.pdf) and [report](https://github.com/MattJohnson24/CodeHub/blob/main/Codehub_report.pdf)!
